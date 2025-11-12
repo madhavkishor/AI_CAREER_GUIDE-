@@ -48,7 +48,7 @@ This system is designed to **bridge the gap between academic learning and career
 | Layer | Technology |
 |-------|-------------|
 | **Frontend** | React.js, HTML, CSS, JavaScript |
-| **Backend** | Node.js, Express.js *(or Flask/Django if Python-based)* |
+| **Backend** | Node.js, Express.js |
 | **Database** | MongoDB / MySQL |
 | **AI & NLP** | Python (NLTK, SpaCy, Scikit-learn) or ML APIs |
 | **Deployment** | GitHub Pages / Heroku / Render / Vercel |
